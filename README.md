@@ -1,5 +1,2 @@
-# Sqlite connection
-
-    builder.Services.AddDbContext<DevEventsDbContext>(
-        x => x.UseSqlite("Data source=DevEvents.db")
-    );
+$ dotnet ef migrations add DevEventsMigration -o Persistence/Migrations
+$ dotnet ef database update
