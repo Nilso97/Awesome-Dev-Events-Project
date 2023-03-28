@@ -1,0 +1,33 @@
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/appsettings.Development.json
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/appsettings.json
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/ASP. NET Core Web API
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/ASP. NET Core Web API.deps.json
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/ASP. NET Core Web API.runtimeconfig.json
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/ASP. NET Core Web API.dll
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/ASP. NET Core Web API.pdb
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/nilsojr/Documentos/Awesome Dev Events/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ASP. NET Core Web API.csproj.AssemblyReference.cache
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ASP. NET Core Web API.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ASP. NET Core Web API.AssemblyInfoInputs.cache
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ASP. NET Core Web API.AssemblyInfo.cs
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ASP. NET Core Web API.csproj.CoreCompileInputs.cache
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ASP. NET Core Web API.MvcApplicationPartsAssemblyInfo.cs
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ASP. NET Core Web API.MvcApplicationPartsAssemblyInfo.cache
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/staticwebassets/msbuild.ASP. NET Core Web API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/staticwebassets/msbuild.build.ASP. NET Core Web API.props
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ASP. NET Core Web API.props
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ASP. NET Core Web API.props
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/staticwebassets.pack.json
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/staticwebassets.build.json
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/staticwebassets.development.json
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/scopedcss/bundle/ASP. NET Core Web API.styles.css
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ASP. NET Core Web API.csproj.CopyComplete
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ASP. NET Core Web API.dll
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/refint/ASP. NET Core Web API.dll
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ASP. NET Core Web API.pdb
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ASP. NET Core Web API.genruntimeconfig.cache
+/home/nilsojr/Documentos/Awesome Dev Events/obj/Debug/net7.0/ref/ASP. NET Core Web API.dll
