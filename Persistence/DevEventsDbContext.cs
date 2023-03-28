@@ -38,7 +38,27 @@ namespace Dev_Events_App.Persistence
 
             builder.Entity<DevEventSpeaker>(e =>
             {
-                e.HasKey(d => d.DevEventId);
+                e.HasKey(s => s.Id);
+
+                e.HasKey(s => s.DevEventId);
+
+                e.Property(s => s.Name)
+                    .HasMaxLength(50)
+                    .HasColumnType("varchar(50)")
+                    .IsRequired(true);
+
+                e.Property(s => s.TalkTitle)
+                    .HasMaxLength(100)
+                    .HasColumnType("varchar(100)")
+                    .IsRequired(true);
+
+                e.Property(s => s.TalkDescription)
+                    .HasMaxLength(200)
+                    .HasColumnType("varchar(200)");
+
+                e.Property(s => s.LinkedInProfile)
+                    .HasMaxLength(50)
+                    .HasColumnType("varchar(50)");
             });
         }
     }

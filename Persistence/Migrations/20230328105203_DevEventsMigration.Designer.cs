@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Dev_Events_App.Persistence.Migrations
 {
     [DbContext(typeof(DevEventsDbContext))]
-    [Migration("20230328102359_DevEventsMigration")]
+    [Migration("20230328105203_DevEventsMigration")]
     partial class DevEventsMigration
     {
         /// <inheritdoc />
@@ -58,16 +58,22 @@ namespace Dev_Events_App.Persistence.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("LinkedInProfile")
-                        .HasColumnType("TEXT");
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar(50)");
 
                     b.Property<string>("Name")
-                        .HasColumnType("TEXT");
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar(50)");
 
                     b.Property<string>("TalkDescription")
-                        .HasColumnType("TEXT");
+                        .HasMaxLength(200)
+                        .HasColumnType("varchar(200)");
 
                     b.Property<string>("TalkTitle")
-                        .HasColumnType("TEXT");
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("varchar(100)");
 
                     b.HasKey("DevEventId");
 

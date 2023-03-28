@@ -33,10 +33,10 @@ namespace Dev_Events_App.Persistence.Migrations
                 {
                     DevEventId = table.Column<Guid>(type: "TEXT", nullable: false),
                     Id = table.Column<Guid>(type: "TEXT", nullable: false),
-                    Name = table.Column<string>(type: "TEXT", nullable: true),
-                    TalkTitle = table.Column<string>(type: "TEXT", nullable: true),
-                    TalkDescription = table.Column<string>(type: "TEXT", nullable: true),
-                    LinkedInProfile = table.Column<string>(type: "TEXT", nullable: true)
+                    Name = table.Column<string>(type: "varchar(50)", maxLength: 50, nullable: false),
+                    TalkTitle = table.Column<string>(type: "varchar(100)", maxLength: 100, nullable: false),
+                    TalkDescription = table.Column<string>(type: "varchar(200)", maxLength: 200, nullable: true),
+                    LinkedInProfile = table.Column<string>(type: "varchar(50)", maxLength: 50, nullable: true)
                 },
                 constraints: table =>
                 {
