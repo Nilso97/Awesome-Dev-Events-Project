@@ -81,7 +81,9 @@ namespace Dev_Events_App.Controllers
         [HttpDelete("{id}")]
         public IActionResult DeleteEvent(Guid id)
         {
-            var devEvent = _context.DevEvents.SingleOrDefault(e => e.Id == id);
+            var devEvent = _context.DevEvents.SingleOrDefault(
+                e => e.Id == id
+            );
 
             if (devEvent != null)
             {
