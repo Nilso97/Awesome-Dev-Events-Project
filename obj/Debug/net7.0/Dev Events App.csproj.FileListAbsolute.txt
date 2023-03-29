@@ -68,3 +68,5 @@
 /home/nilsojr/Documentos/Dev Events App/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
 /home/nilsojr/Documentos/Dev Events App/bin/Debug/net7.0/Mono.TextTemplating.dll
 /home/nilsojr/Documentos/Dev Events App/bin/Debug/net7.0/System.CodeDom.dll
+/home/nilsojr/Documentos/Dev Events App/bin/Debug/net7.0/Dev Events App.xml
+/home/nilsojr/Documentos/Dev Events App/obj/Debug/net7.0/Dev Events App.xml
